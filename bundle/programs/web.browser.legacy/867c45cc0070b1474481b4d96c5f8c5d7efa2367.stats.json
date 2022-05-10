@@ -3,8 +3,8 @@
     "name": "standard-minifier-js",
     "version": "2.4.1"
   },
-  "totalMinifiedBytes": 869481,
-  "totalMinifiedGzipBytes": 255051,
+  "totalMinifiedBytes": 870795,
+  "totalMinifiedGzipBytes": 255477,
   "minifiedBytesByPackage": {
     "packages/meteor.js": 9484,
     "packages/meteor-base.js": 31,
@@ -847,7 +847,7 @@
       {}
     ],
     "app/app.js": [
-      64649,
+      65963,
       {
         "imports": {
           "ui": {
@@ -862,7 +862,7 @@
             "loading.html": 59,
             "template.loading.js": 212,
             "login.html": 57,
-            "template.login.js": 2577,
+            "template.login.js": 2930,
             "register.html": 60,
             "template.register.js": 2801,
             "userSettings.html": 64,
@@ -877,6 +877,7 @@
             "template.wheelSubmit.js": 1837,
             "admin.js": 864,
             "backHeader.js": 212,
+            "global_helper.js": 100,
             "index.js": 654,
             "indexHeader.js": 190,
             "login.js": 1715,
@@ -888,14 +889,14 @@
             "wheelSubmit.js": 875
           },
           "api": {
-            "students.js": 449,
-            "wheels.js": 475
+            "students.js": 443,
+            "wheels.js": 469
           }
         },
         "client": {
           "main.html": 56,
-          "template.main.js": 481,
-          "main.js": 1143
+          "template.main.js": 1293,
+          "main.js": 1184
         },
         "lib": {
           "i18n": {
